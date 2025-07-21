@@ -1,17 +1,19 @@
 body {
-  font-family: 100% Verdana, Arial, Helvetica, sans-serif;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size:100%; 
   margin: 0;
   padding: 20px;
   background-color: #f4f4f4;
 }
 header {
   background-color: #f7cb03;
-  font-family: 100% Verdana, Arial, Helvetica, sans-serif;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size:100%; 
   color: white;
   padding: 10px 0;
   text-align: center;
 }
-hi, h2 {
+h1, h2 {
   margin: 20px 0;
 }
 #introduction {
