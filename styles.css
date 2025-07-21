@@ -1,4 +1,23 @@
-body {
+.navbar {
+ display: flex; 
+ list-style-type: none;
+ padding: 0; 
+ margin: 20px 0; 
+ background-color: #556c8a
+}
+.navbar li {
+  flex: 1;                     
+}
+.navbar a {
+   display: block;              
+   padding: 15px;              
+   color: white;               
+   text-align: center;         
+   text-decoration: none;      
+   transition: background 0.3s; 
+.navbar a:hover {
+   background-color: #575757;  
+}body {
   font-family: Verdana, Arial, Helvetica, sans-serif;
   font-size: 100%; 
   margin: 0;
