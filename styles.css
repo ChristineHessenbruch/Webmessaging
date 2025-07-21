@@ -17,7 +17,8 @@
    transition: background 0.3s; 
 .navbar a:hover {
    background-color: #575757;  
-}body {
+}
+ body {
   font-family: Verdana, Arial, Helvetica, sans-serif;
   font-size: 100%; 
   margin: 0;
