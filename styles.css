@@ -1,6 +1,6 @@
 body {
   font-family: Verdana, Arial, Helvetica, sans-serif;
-  font-size:100%; 
+  font-size: 100%; 
   margin: 0;
   padding: 20px;
   background-color: #f4f4f4;
@@ -8,7 +8,7 @@ body {
 header {
   background-color: #f7cb03;
   font-family: Verdana, Arial, Helvetica, sans-serif;
-  font-size:100%; 
+  font-size: 100%; 
   color: white;
   padding: 10px 0;
   text-align: center;
