@@ -18,10 +18,6 @@
     environment: 'prod-euc1',
     deploymentId: 'c610e20f-cf51-4f42-b50c-cb755a37f089'
   });
-  / Add the beforeunload event listener after the main Genesys initialization
-  window.addEventListener('beforeunload', function() {
-    Genesys("command", "Messenger.clear");
-  });
 </script>
 </head>
    <body>
